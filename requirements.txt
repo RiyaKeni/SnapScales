@@ -1,7 +1,7 @@
-torch
-flask
-gunicorn 
-torchvision
-numpy
-PIL
+torch==2.6.0
+flask==3.1.0
+gunicorn==23.0.0
+torchvision==0.21.0
+numpy==2.1.1
 io
+pillow==10.4.0
